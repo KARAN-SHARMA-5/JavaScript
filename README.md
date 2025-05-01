@@ -1,4 +1,4 @@
 # JavaScript
 this is my first repo
 <br>
-auhtor - karan sharma
+auhtor - karan sharma ji
